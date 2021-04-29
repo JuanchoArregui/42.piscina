@@ -1,0 +1,5 @@
+Credentials cache: API:14DC8E96-C4F0-40B0-B546-156EC50701B3
+        Principal: jarregui@42MADRID.COM
+
+  Issued                Expires               Principal
+Apr  8 10:19:03 2021  Apr  8 20:18:53 2021  krbtgt/42MADRID.COM@42MADRID.COM
